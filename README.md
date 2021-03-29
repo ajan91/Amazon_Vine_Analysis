@@ -17,16 +17,23 @@
 - The analysis does the following:
 
   - There is a DataFrame or table for the vine_table data using one of three methods above
-  
+  ![](Resources/D1.png)
+
   - The data is filtered to create a DataFrame or table where there are 20 or more total votes
+![](Resources/D2.png)
 
   - The data is filtered to create a DataFrame or table where the percentage of helpful_votes is equal to or greater than 50%
- 
+ ![](Resources/D3.png)
+
   - The data is filtered to create a DataFrame or table where there is a Vine review
+![](Resources/D4.png)
 
   - The data is filtered to create a DataFrame or table where there isn’t a Vine review
+![](Resources/D5.png)
 
   - The total number of reviews, the number of 5-star reviews, and the percentage 5-star reviews are calculated for all Vine and non-Vine reviews
+![](Resources/D6.png)
+![](Resources/D7.png)
 
 # Deliverable 3: A Written Report on the Analysis
 
@@ -39,9 +46,11 @@ The written analysis has the following:
 - Results:
         - There is a bulleted list that addresses the three questions for unpaid and paid program reviews
       
-    The majority of reviews for Furniture product are almost nothing or lower results from Vine participants: 99.6% are Non-Vine.
-    And overall of all 5 Star reviews are also the same as the Furniture, all are from Vine participants: 99.7% of all 5-star reviews are non-Vine.
-    But we need to highlight that not all of the 5 Star reviews are coming from Vine participants.
+1.  99.6% are Non-Vine.
+    
+2.  99.7% of all 5-star reviews are non-Vine.
+    
+3.  Not all of the 5 Star reviews are coming from Vine participants.
 
         
 - Summary:
