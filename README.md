@@ -7,9 +7,7 @@
 - The Amazon_Reviews_ETL.ipynb file does the following:
 
   - An Amazon Review dataset is extracted as a DataFrame
-  
   - The extracted dataset is transformed into four DataFrames with the correct columns
-
   - All four DataFrames are loaded into their respective tables in pgAdmin
 
 # Deliverable 2: Determine Bias of Vine Reviews
@@ -40,7 +38,11 @@ The written analysis has the following:
 
 - Results:
         - There is a bulleted list that addresses the three questions for unpaid and paid program reviews
-        **Please See Above** 
+      
+    The majority of reviews for Furniture product are almost nothing or lower results from Vine participants: 99.6% are Non-Vine.
+    And overall of all 5 Star reviews are also the same as the Furniture, all are from Vine participants: 99.7% of all 5-star reviews are non-Vine.
+    But we need to highlight that not all of the 5 Star reviews are coming from Vine participants.
+
         
 - Summary:
         - The summary states whether or not there is bias, and the results support this statement
